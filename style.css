@@ -11,7 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
     flex-direction: row;
-    background: linear-gradient(-90deg, #232526, #414345);
+    background: linear-gradient(90deg, #414345, #232526);
 }
 
 a{
@@ -26,11 +26,11 @@ a{
     letter-spacing: 2px;
     border-radius: 5px;
     overflow: hidden;
-    background: linear-gradient(-90deg, #1FA2FF, #12D8FA, #A6FFCB);
+    background: linear-gradient(90deg, #A6FFCB, #12D8FA, #1FA2FF);
 }
 
 a:nth-child(2){
-    background: linear-gradient(-90deg, #ED4264, #FFEDBC);
+    background: linear-gradient(90deg, #FFEDBC, #ED4264);
 }
 
 span{
