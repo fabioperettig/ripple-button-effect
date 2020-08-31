@@ -30,7 +30,7 @@ a{
 }
 
 a:nth-child(2){
-    background: linear-gradient(90deg, #775bea, #ff72c0);
+    background: linear-gradient(90deg, #775bea, #ffffff);
 }
 
 span{
